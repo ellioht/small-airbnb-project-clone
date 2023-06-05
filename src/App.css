@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+.iconflex {
+  margin: 10px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap; /* wrap to next line */
+  gap: 30px;
+}
+.icons {
+  flex: 1 0 auto;
+  align-self: center;
+  order: 2;
+  flex-basis: 60px; /* width of item */
+  flex-grow: 0;
+  flex-shrink: 0;
+}
