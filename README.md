@@ -3,5 +3,7 @@ This project aims to replicate the cards that display listings of Airbnb homes o
 
 ## To view the code:
 Main - /src/App.js
+<br>
 Styling - /srcApp.css
+<br>
 Card component - /src/cardComponent
